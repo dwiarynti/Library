@@ -1,0 +1,2 @@
+D:\Kantor\Node\NodeJS\NodeJS\obj\Debug\NodeJS.njsprojResolveAssemblyReference.cache
+D:\Kantor\Node\NodeJS\NodeJS\bin\Microsoft.NodejsTools.WebRole.dll
